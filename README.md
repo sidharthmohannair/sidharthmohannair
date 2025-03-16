@@ -73,7 +73,8 @@ A **detailed tutorial series** covering **ESP32-C3 Super Mini board**, including
 🚀 I’m always open to **collaborating on innovative hardware & robotics projects**. Let's push boundaries together!  
 
 📩 **Email:** [sidharthmohannair@gmail.com](mailto:sidharthmohannair@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/sidharthmohannair](https://www.linkedin.com/in/sidharthmohannair/)  
+🔗 **LinkedIn:** [linkedin.com/in/sidharthmohannair](https://www.linkedin.com/in/sidharth-mohan-nair-487980152/)
+
 
 
 
