@@ -1,102 +1,69 @@
-# Hi, I'm **Sidharth Mohan Nair**  
+# Sidharth Mohan Nair
 
-**Innovative Technologist | Robotics & IoT Developer | Embedded Systems Engineer | UAV & Autonomous Systems Expert**  
+Senior Research Fellow at IIT Kanpur SPINLAB. Working on GPS-denied navigation and multi-UAV systems.
 
-I am a **multidisciplinary engineer** passionate about **hardware, embedded systems, autonomous robotics, and IoT**. My expertise spans:  
-
-- **Robotics & Autonomous Systems** (ROS1/ROS2, ArduPilot, PX4, MAVROS)  
-- **UAV & Multi-Agent Systems** (Drone Navigation, Swarm Robotics, Computer Vision)  
-- **Embedded Systems & PCB Design** (ESP32, Arduino, Raspberry Pi, Jetson Nano)  
-- **IoT & Wireless Communication** (LoRaWAN, MQTT, Zigbee, Sensor Networks)  
-- **Product Development & Rapid Prototyping** (3D Printing, CNC, Laser Cutting)  
-
-I thrive on building **cutting-edge open-source projects**, optimizing hardware-software integration, and **pushing the boundaries of technology** through **automation, AI-driven control, and scalable IoT solutions**.  
+Building electronics and embedded systems since 2013.
 
 ---
 
-## **Featured Projects**  
+## Work
 
-### **[Fury Drone Project](https://github.com/sidharthmohannair/Fury-Drone-Project)**  
-A high-performance **multi-mission UAV platform** integrating **Pixhawk Orange Cube+**, **Intel RealSense cameras**, and **advanced flight control algorithms**. This project covers **hardware, firmware, software, and mission autonomy**.  
+**IIT Kanpur — Senior Research Fellow** (Jan 2025 - Present)  
+Visual geo-localization for GPS-denied navigation, multi-UAV communication protocols, sensor fusion, ROS-based automation, web application development.
 
-### **[Thermal Imaging Drone for SAR Operations](https://github.com/sidharthmohannair/Thermal-Imaging-Drone-SAR)**  
-A **search-and-rescue drone** equipped with **FLIR thermal cameras and real-time YOLO-based object detection** to assist in disaster response missions.  
+**ICFOSS — Research Associate** (Oct 2022 - Dec 2024)  
+Thermal imaging UAV for search and rescue, mapping UAVs, NavIC integration, UAV platform design. LoRaWAN IoT development — air quality monitoring, ultra-low-power sensors (8-year battery life), solar-powered standalone devices. Managed 3D printing, IoT, and drone operations.
 
-### **[OpenESC – Open-Source Electronic Speed Controller](https://github.com/sidharthmohannair/OpenESC)**  
-A fully customizable **ESC for BLDC motors**, supporting **real-time telemetry, sensorless control, and open-source firmware customization**.  
-
-### **[ESP32-C3 Super Mini – Complete Guide](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini)**  
-A **detailed tutorial series** covering **ESP32-C3 Super Mini board**, including **pinouts, setup, firmware programming, and IoT applications**.  
+**i-Era Technical Solutions — CTO** (Jun 2017 - Sep 2022)  
+Co-founded and led technical operations. Built IoT products, embedded systems, and took consulting projects. Conducted workshops, taught a 6-month IoT course, and mentored B.Tech/M.Tech student projects across embedded systems, robotics, and machine learning.
 
 ---
 
-## **Tools & Technologies**  
+## Tutorials & Open Source
 
-### **Programming & Development**  
-🔹 **C, C++, Python** (for embedded systems, UAV control, and robotics)  
-🔹 **Embedded C, MicroPython** (for ESP32, STM32, and low-power MCUs)  
-🔹 **MATLAB, Simulink** (for control systems, power electronics, and simulations)  
+I maintain [SimToFly](https://github.com/simtofly), an organization for drone autonomy tutorials.
 
-### **Embedded Systems & Robotics**  
-🔹 **Microcontrollers:** Arduino, ESP32, STM32, Jetson Nano, BeagleBone  
-🔹 **Robotics Middleware:** ROS1, ROS2, MAVROS, PX4, ArduPilot  
-🔹 **Drone Flight Controllers:** Pixhawk, APM 2.8, BetaFlight  
-
-### **IoT & Communication Systems**  
-🔹 **Protocols:** LoRaWAN, Zigbee, BLE, MQTT, Modbus  
-🔹 **IoT Cloud Platforms:** Google Cloud, AWS IoT, Firebase, Chirpstack  
-
-### **Simulation & Control**  
-🔹 **Gazebo, RViz, QGroundControl, Mission Planner**  
-🔹 **Computer Vision:** OpenCV, TensorFlow, YOLO, Edge AI  
-
-### **Hardware Development & PCB Design**  
-🔹 **PCB Design:** Eagle, KiCad, EasyEDA, DipTrace  
-🔹 **Prototyping:** 3D Printing, CNC, Laser Cutting, IoT Device Design  
+| Repository | Description |
+|------------|-------------|
+| [Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini) | Complete guide — pinouts, setup, IoT applications |
+| [SimToFly Guide](https://github.com/simtofly/simtofly-guide) | ROS2 + ArduPilot + Gazebo — simulation to real flight |
+| [ROS2-ArduPilot-SITL-Hardware](https://github.com/sidharthmohannair/ros2-ardupilot-sitl-hardware) | SITL to hardware deployment, flight-tested on FuryVision AAV |
+| [PX4-ROS2-Beginner-Tutorials](https://github.com/sidharthmohannair/px4-ros2-beginner-tutorials) | Step-by-step drone development with PX4 and Gazebo |
 
 ---
 
-## **GitHub Stats**  
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthmohannair&show_icons=true&theme=radical" width="500px"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthmohannair&theme=radical" width="500px"/>
-</p>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sidharthmohannair&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+| Repository | Description |
+|------------|-------------|
+| [VisionUAV-Navigation](https://github.com/sidharthmohannair/VisionUAV-Navigation) | Vision-based localization for GPS-denied environments |
+| [OpenESC](https://github.com/sidharthmohannair/OpenESC) | Open-source ESC for BLDC motors — sensorless control, telemetry |
+| [Fury-Drone-Project](https://github.com/sidharthmohannair/Fury-Drone-Project) | Open-source UAV platform — hardware, CAD, assembly, wiring documented |
+| [Thermal-Imaging-Drone-SAR](https://github.com/sidharthmohannair/Thermal-Imaging-Drone-SAR) | FLIR thermal + YOLO detection for search and rescue |
+| [GeoPoly-Mapper](https://github.com/sidharthmohannair/GeoPoly-Mapper) | UAV flight boundary planning from orthophotos |
+| [Multirotor-Flight-Calculator](https://github.com/sidharthmohannair/multirotor-flight-calculator) | Engineering-grade flight time estimation |
 
 ---
 
-## **Let's Connect & Collaborate!**  
+## Tools
 
-I’m always open to **collaborating on innovative hardware & robotics projects**. Let's push boundaries together!  
+**Embedded:** ESP32, Arduino, Raspberry Pi, Jetson Nano, 8051, PIC, STM32  
+**Robotics:** ROS1, ROS2, ArduPilot, PX4, MAVROS, Gazebo  
+**Hardware:** PCB design (Eagle, KiCad, EasyEDA), 3D printing, CNC, laser cutting  
+**Communication:** LoRaWAN, MQTT, Zigbee, BLE
 
-**Email:** [sidharthmohannair@gmail.com](mailto:sidharthmohannair@gmail.com)  
-**LinkedIn:** [linkedin.com/in/sidharthmohannair](https://www.linkedin.com/in/sidharth-mohan-nair-487980152/)
+---
 
+## Background
 
+B.Tech in Electrical & Electronics (2017), M.Tech in Energy Systems (2019) — Amal Jyothi College of Engineering.
 
+First project in 2013 — water level indicator with transistors and LEDs. Then 555 timers, hand-etched PCBs, 8051 microcontrollers, Arduino, and eventually drones. Co-founded i-Era Technical Solutions during B.Tech final year.
 
+3 patents filed. DGCA certified drone pilot.
 
+---
 
+## Contact
 
-
-
-
-<!---
-sidharthmohannair/sidharthmohannair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-👋 Hi, I’m @sidharthmohannair
-
-👀 I’m interested in Hardware, IoT, Robotics Enthusiast | Open Source Lover | Drone & Hardware Product Developer
-
-🛠️ Passionate about building hardware solutions for IoT and robotics applications. Love diving into open source projects to innovate and collaborate.
-
-🚀 Currently focused on drone development, hardware productization, and exploring the intersection of hardware and software.
-
-💻 Let's connect and build something amazing together in the world of hardware and open source!
-
-📫 Reach me at sidharthmohannair@gmail.com
---->
+[sidharthmohannair@gmail.com](mailto:sidharthmohannair@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sidharth-mohan-nair-487980152/) · [Youtube](https://www.youtube.com/@sidharthmohannair9351)
