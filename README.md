@@ -1,20 +1,20 @@
-# 👋 Hi, I'm **Sidharth Mohan Nair**  
+# Hi, I'm **Sidharth Mohan Nair**  
 
-🚀 **Innovative Technologist | Robotics & IoT Developer | Embedded Systems Engineer | UAV & Autonomous Systems Expert**  
+**Innovative Technologist | Robotics & IoT Developer | Embedded Systems Engineer | UAV & Autonomous Systems Expert**  
 
 I am a **multidisciplinary engineer** passionate about **hardware, embedded systems, autonomous robotics, and IoT**. My expertise spans:  
 
-- 🤖 **Robotics & Autonomous Systems** (ROS1/ROS2, ArduPilot, PX4, MAVROS)  
-- 🚀 **UAV & Multi-Agent Systems** (Drone Navigation, Swarm Robotics, Computer Vision)  
-- 🔌 **Embedded Systems & PCB Design** (ESP32, Arduino, Raspberry Pi, Jetson Nano)  
-- 🌍 **IoT & Wireless Communication** (LoRaWAN, MQTT, Zigbee, Sensor Networks)  
-- 🛠 **Product Development & Rapid Prototyping** (3D Printing, CNC, Laser Cutting)  
+- **Robotics & Autonomous Systems** (ROS1/ROS2, ArduPilot, PX4, MAVROS)  
+- **UAV & Multi-Agent Systems** (Drone Navigation, Swarm Robotics, Computer Vision)  
+- **Embedded Systems & PCB Design** (ESP32, Arduino, Raspberry Pi, Jetson Nano)  
+- **IoT & Wireless Communication** (LoRaWAN, MQTT, Zigbee, Sensor Networks)  
+- **Product Development & Rapid Prototyping** (3D Printing, CNC, Laser Cutting)  
 
 I thrive on building **cutting-edge open-source projects**, optimizing hardware-software integration, and **pushing the boundaries of technology** through **automation, AI-driven control, and scalable IoT solutions**.  
 
 ---
 
-## 🚀 **Featured Projects**  
+## **Featured Projects**  
 
 ### **[Fury Drone Project](https://github.com/sidharthmohannair/Fury-Drone-Project)**  
 A high-performance **multi-mission UAV platform** integrating **Pixhawk Orange Cube+**, **Intel RealSense cameras**, and **advanced flight control algorithms**. This project covers **hardware, firmware, software, and mission autonomy**.  
@@ -30,7 +30,7 @@ A **detailed tutorial series** covering **ESP32-C3 Super Mini board**, including
 
 ---
 
-## 🛠 **Tools & Technologies**  
+## **Tools & Technologies**  
 
 ### **Programming & Development**  
 🔹 **C, C++, Python** (for embedded systems, UAV control, and robotics)  
@@ -56,7 +56,7 @@ A **detailed tutorial series** covering **ESP32-C3 Super Mini board**, including
 
 ---
 
-## 📊 **GitHub Stats**  
+## **GitHub Stats**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sidharthmohannair&show_icons=true&theme=radical" width="500px"/>
@@ -68,12 +68,12 @@ A **detailed tutorial series** covering **ESP32-C3 Super Mini board**, including
 
 ---
 
-## 🌍 **Let's Connect & Collaborate!**  
+## **Let's Connect & Collaborate!**  
 
-🚀 I’m always open to **collaborating on innovative hardware & robotics projects**. Let's push boundaries together!  
+I’m always open to **collaborating on innovative hardware & robotics projects**. Let's push boundaries together!  
 
-📩 **Email:** [sidharthmohannair@gmail.com](mailto:sidharthmohannair@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/sidharthmohannair](https://www.linkedin.com/in/sidharth-mohan-nair-487980152/)
+**Email:** [sidharthmohannair@gmail.com](mailto:sidharthmohannair@gmail.com)  
+**LinkedIn:** [linkedin.com/in/sidharthmohannair](https://www.linkedin.com/in/sidharth-mohan-nair-487980152/)
 
 
 
